@@ -6,3 +6,16 @@
 	height: 100%;
 	margin: 0 auto;
 }
+
+.carousel-caption {
+    top: 0;
+    bottom: auto;
+}
+
+.header *{
+    display: inline-block;
+}
+
+.header {
+    text-align: left;
+}
